@@ -15,3 +15,8 @@
 - store.dispatch( addArticle({ title: 'React Redux Tutorial for Beginners', id: 1 }) );
 - store.getState();
 // output: {articles: Array(1)}
+
+## To install react-redux --save-dev
+
+`npm i react-redux --save-dev`
+
