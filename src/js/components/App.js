@@ -1,7 +1,8 @@
 import React from 'react';
 import List from './List';
+import Form from './Form';
 
-const App = () => {
+const App = () => (
     <>
         <div>
             <h2> Articles </h2>
@@ -12,6 +13,6 @@ const App = () => {
             <Form />
         </div>
     </>    
-};
+);
 
 export default App;
